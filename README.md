@@ -1,6 +1,9 @@
 # GridView
 自定义iOS网格组件，基于UITableView 和 UICollectionView 构建的 GridView
 
+warning : 请使用优化版本 [iOS-GridView](https://github.com/ayu250/iOS-GridView)
+
+
 1、初始化  
 
 MLHGridView *grid = [[MLHGridView alloc]initWithFrame:CGRectMake(10, 64, self.view.frame.size.width-20, CGRectGetHeight(self.view.bounds) - 64)];  
